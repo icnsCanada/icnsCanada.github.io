@@ -9,10 +9,3 @@ builds
 package-lock.json
 config.toml
 .gitignore
-themes
-static
-resources
-layouts
-data
-content
-archetypes
