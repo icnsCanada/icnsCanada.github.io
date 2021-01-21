@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Hugo"
+baseURL = "https://icnsConsulting.github.io"
+title = "icns Consulting"
 theme = "bigspring"
 languageName = "En"
 languageCode = "en-us"
