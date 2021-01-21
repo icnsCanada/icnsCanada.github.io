@@ -7,4 +7,12 @@ npm-debug.log
 node_modules
 builds
 package-lock.json
-public
+config.toml
+.gitignore
+themes
+static
+resources
+layouts
+data
+content
+archetypes
