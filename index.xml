@@ -6,59 +6,24 @@
     <description>Recent content on icns Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://icnsConsulting.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 20:00:00 +0000</lastBuildDate><atom:link href="https://icnsConsulting.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>https://icnsConsulting.github.io/blog/post-1/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      <title>Welcome</title>
+      <link>https://icnsConsulting.github.io/welcome/</link>
+      <pubDate>Fri, 22 Jan 2021 20:00:00 +0000</pubDate>
       
-      <guid>https://icnsConsulting.github.io/blog/post-1/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <guid>https://icnsConsulting.github.io/welcome/</guid>
+      <description>Welcome to icns!
+ Check out the Tools section for helpful software and services related to cyber security, privacy and bitcoin.</description>
     </item>
     
     <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>https://icnsConsulting.github.io/blog/post-4/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      <title>Nick</title>
+      <link>https://icnsConsulting.github.io/author/nick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://icnsConsulting.github.io/blog/post-4/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>https://icnsConsulting.github.io/blog/post-5/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://icnsConsulting.github.io/blog/post-5/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>https://icnsConsulting.github.io/blog/post-6/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://icnsConsulting.github.io/blog/post-6/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Pump-up the team morale and celebrate the excellence</title>
-      <link>https://icnsConsulting.github.io/blog/post-2/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://icnsConsulting.github.io/blog/post-2/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>screens with built in Present and Dismiss animations.</title>
-      <link>https://icnsConsulting.github.io/blog/post-3/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://icnsConsulting.github.io/blog/post-3/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <guid>https://icnsConsulting.github.io/author/nick/</guid>
+      <description>Experience in technology, cyber security.</description>
     </item>
     
   </channel>
