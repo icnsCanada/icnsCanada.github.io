@@ -3,47 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://icnsCanada.github.io/categories/</loc>
+    <loc>https://icns.ca/categories/bitcoin/</loc>
     <lastmod>2021-01-22T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/</loc>
+    <loc>https://icns.ca/bitcoin/</loc>
     <lastmod>2021-01-22T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/categories/info/</loc>
+    <loc>https://icns.ca/categories/</loc>
     <lastmod>2021-01-22T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/welcome/</loc>
+    <loc>https://icns.ca/</loc>
     <lastmod>2021-01-22T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/author/</loc>
+    <loc>https://icns.ca/categories/info/</loc>
+    <lastmod>2021-01-22T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/contact/</loc>
+    <loc>https://icns.ca/welcome/</loc>
+    <lastmod>2021-01-22T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/author/nick/</loc>
+    <loc>https://icns.ca/author/</loc>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/search/</loc>
+    <loc>https://icns.ca/contact/</loc>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/tags/</loc>
+    <loc>https://icns.ca/author/nick/</loc>
   </url>
   
   <url>
-    <loc>https://icnsCanada.github.io/tools/</loc>
+    <loc>https://icns.ca/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icns.ca/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icns.ca/tools/</loc>
   </url>
   
 </urlset>

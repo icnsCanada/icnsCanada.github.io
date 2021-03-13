@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>info on icns Canada</title>
-    <link>https://icnsCanada.github.io/categories/info/</link>
-    <description>Recent content in info on icns Canada</description>
+    <title>info on icns Consulting</title>
+    <link>https://icns.ca/categories/info/</link>
+    <description>Recent content in info on icns Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 20:00:00 +0000</lastBuildDate><atom:link href="https://icnsCanada.github.io/categories/info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 20:00:00 +0000</lastBuildDate><atom:link href="https://icns.ca/categories/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://icnsCanada.github.io/welcome/</link>
+      <link>https://icns.ca/welcome/</link>
       <pubDate>Fri, 22 Jan 2021 20:00:00 +0000</pubDate>
       
-      <guid>https://icnsCanada.github.io/welcome/</guid>
+      <guid>https://icns.ca/welcome/</guid>
       <description>Welcome to icns!
  Check out the Tools section for helpful software and services related to cyber security, privacy and bitcoin.</description>
     </item>
